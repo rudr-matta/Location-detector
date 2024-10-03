@@ -1,0 +1,1 @@
+A JavaScript app that uses Google Location API to detect and display the user's current location. It fetches the latitude, longitude, and address in real-time, demonstrating geolocation capabilities and API integration.
